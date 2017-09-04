@@ -3,3 +3,7 @@ It is the git of the 3 team in IOT seminar subject.
 If you have Linux system, you can compile codes in this directory.
 
 Please typing 'make'.
+
+You will see the generated file in the bin directory.
+
+Thank you.
